@@ -1,3 +1,4 @@
-<h1> Hello, Welcome to Valaxy Technologies !!! </h1>
-<h2> Deploying on Kubernetes </h2>
-<h3> One last test </h3>
+<h1> Hello, Welcome to DevOps !!! </h1>
+<h2> First deployment successful </h2>
+<h3>          This is basic CI/CD setup where we directly deployed in tomcat container using jenkins <h3>
+
