@@ -6,5 +6,5 @@
 <h2> Third deployment successful </h2>
 <h3>          This is CI/CD setup where we created a docker container and deployed in tomcat server using jenkins <h3>
 <h2> Fourth deployment successful </h2>
-<h3>          This is CI/CD setup where we created a docker container and pushed to dockerhub pulled it using ansible playbook and deployed in a container in docker node <h3>
+<h3>          This is CI/CD setup where we created a docker container and pushed to dockerhub pulled it using ansible playbook and deployed in a container in docker node port 8090<h3>
 
