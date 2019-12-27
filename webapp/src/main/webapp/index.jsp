@@ -7,4 +7,4 @@
 <h3>          This is CI/CD setup where we created a docker container and deployed in tomcat server using jenkins <h3>
 <h2> Fourth deployment successful </h2>
 <h3>          This is CI/CD setup where we created a docker container and pushed to dockerhub pulled it using ansible playbook and deployed in a container in docker node port 8090<h3>
-
+<h3>          Enabling docker versioning using jenkins parameters to deploy the latest build, it helps us to rever back to previous one in case of issues with latest build <h3>
